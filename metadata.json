@@ -1,0 +1,7 @@
+{
+  "name": "Crema - Specialty Coffee Social",
+  "description": "A premium social network for coffee lovers to record flavor profiles and connect with the local community.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
